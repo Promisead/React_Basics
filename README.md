@@ -1,4 +1,5 @@
 # React App Template: Basic Features and Guidelines
+   **Check Master Branch
 
 This GitHub repository serves as a foundational template for building robust React applications with modern features and best practices. It includes the following key features and guidelines:
 
